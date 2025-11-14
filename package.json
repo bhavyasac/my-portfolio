@@ -31,7 +31,11 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://bhavyasac.github.io/my-portfolio",
+  // "homepage": "https://bhavyasac.github.io/my-portfolio",
+  
+  "name": "portfolio",
+  "version": "0.1.0",
+
   "eslintConfig": {
     "extends": [
       "react-app",
