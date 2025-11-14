@@ -1,6 +1,6 @@
 <h2 align="center">
   <!-- Portfolio Website - v2.0<br/> -->
-  <a href="https://bhavyasac.github.io/my-portfolio/" target="_blank">Bhavya's Portfolio</a>
+  <a href="https://my-portfolio-bhavyas-projects-991dbc3a.vercel.app/" target="_blank">Bhavya's Portfolio</a>
 </h2> 
  <!-- <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
